@@ -26,7 +26,3 @@ This project uses Power BI to visualize and explore a Netflix dataset, turning r
 - Data cleaning and modeling in Power BI
 - Interactive dashboard design
 - Visual storytelling with real-world data
-
----
-
-*Note: Add a few screenshots of your dashboard pages here to give viewers a preview without needing to open the file themselves.*
